@@ -1,0 +1,26 @@
+'''Initialize the webserver with a port and IP
+and return socket
+@params IP, Port
+'''
+def init(IP, port):
+	pass
+
+'''
+start server to listen for connections
+@params socket
+'''
+def start_server(socket):
+	pass
+
+'''
+to accept the connection, read request and send response
+@params socket
+'''
+def serve_clients(socket):
+	pass
+
+'''
+handle http request and return response data
+'''
+def handle_request(request):
+	pass

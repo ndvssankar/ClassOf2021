@@ -1,0 +1,3 @@
+fork - multi process
+thread - handle the connection and pass it on to thread
+implement kill and terminate the long running process
