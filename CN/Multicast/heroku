@@ -1,0 +1,10 @@
+<!-- 
+Good Reads
+key: dMiMo5UwKqB038a2d2SQ
+secret: Ox0DrQEmTxZXwOYZ7GreJrWUzucTayTmsoUoEAzaE
+@@ -19,4 +27,4 @@ Port
+Password
+    858baa7b0d8b5ce3cb37d6481e187d508a119f33d2f26a2addac896f186eb633
+URI
+    postgres://tgsemzadyezlgh:858baa7b0d8b5ce3cb37d6481e187d508a119f33d2f26a2addac896f186eb633@ec2-18-233-137-77.compute-1.amazonaws.com:5432/
+    postgres://tgsemzadyezlgh:858baa7b0d8b5ce3cb37d6481e187d508a119f33d2f26a2addac896f186eb633@ec2-18-233-137-77.compute-1.amazonaws.com:5432/ -->

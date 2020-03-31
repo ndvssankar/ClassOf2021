@@ -1,0 +1,16 @@
+Project
+Online Examination
+
+Objective
+Conduct an online examination for a student where the questions will be selected based on the difficulty levels. For instance, if the student is able to answer a question the next question should be of a difficulty level more than the one just answered
+
+Requirements
+
+1. List of question and answers and the difficulty level along with the marks are maintained in document
+2. Each difficulty level is assigned different marks
+3. The student takes the test and when the answer is correct the next question would be from same level of difficulty.
+4. In case the student answers two question of the same difficulty level correctly then question from next difficulty level is displayed
+5. In case the student’s answer is wrong the next question displayed is of the same difficulty level.
+6. In case the student’s answer is wrong for two consequtive questions then the difficulty level of the next question displayed is less than the one that is being answered.
+7. The question which was attempted should not be displayed to the students while they take the exam
+8. Once the student completes the test the grade is displayed along with the message if the student has passed the exam or not
